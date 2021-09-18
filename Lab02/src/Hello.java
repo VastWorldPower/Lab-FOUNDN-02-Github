@@ -7,11 +7,8 @@ public class Hello {
 		// Add a new line with your information
 		System.out.println("302711370 - This line was added by Michael Tang.");
 		System.out.println("220219104 - This line was added by Aaron Than.");
-<<<<<<< HEAD
-		System.out.println("301246361 - This line was added by James Ayers.");
-=======
 		System.out.println("218788389 - Dalen Hurtt.");
->>>>>>> branch 'main' of https://github.com/VastWorldPower/Lab-FOUNDN-02-Github.git
+		System.out.println("301246361 - This line was added by James Ayers.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
