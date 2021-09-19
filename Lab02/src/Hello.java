@@ -11,7 +11,5 @@ public class Hello {
 		System.out.println("301367287 - This line was added by Jeb Chua.");
 		System.out.println("301208583 - This line was added by Peter Metz.");
 		System.out.println("215700837 - This line was added by Robert Medina.");
-		System.out.println("SacStateID - This line was added by First name Last name.");
-		System.out.println("SacStateID - This line was added by First name Last name.");
 	}
 }
